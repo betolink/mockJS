@@ -1,4 +1,4 @@
-**echojs** - A nodeJS app to mock http responses
+#mockJS - A nodeJS script to mock http responses
 
 ##How to Install
 
