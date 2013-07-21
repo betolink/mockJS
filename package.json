@@ -1,0 +1,19 @@
+{
+  "name": "mockjs",
+  "description": "A web service to echo mocked http responses",
+  "author": "betolink",
+  "version": "0.1.0",
+  "homepage": "https://github.com/betolink/mockjs",
+  "dependencies": {
+    "express": "3.1.0",
+    "mkdirp": "0.3.5",
+    "forever": "0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://www.wtfpl.net/txt/copying/"
+    }
+  ],
+  "engine": "node >= 0.4.1"
+}
