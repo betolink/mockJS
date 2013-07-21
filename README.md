@@ -6,7 +6,7 @@
 
 ## What is it?
 
-MockJS provides an easy way to mock up http GET responses. Mocked responses are uploaded file via an HTTP post to the base URL, this file will be returned as a response using an HTTP GET request
+MockJS provides an easy way to mock up http GET responses. Responses are uploaded via HTTP posts to a base URL, this file will be returned using an HTTP GET request
 to the same base url. This is very useful for testing REST clients i.e. if we have a website that consumes
 dynamically generated rss feeds via HTTP GET requests.
 
